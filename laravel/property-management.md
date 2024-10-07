@@ -1,11 +1,11 @@
 **Property Management**
 
-- **Image Handling**
+### Image Handling
   - drag and drop option to upload images 
   - Assign names or titles to images.
   - Order images to prioritize which ones are used first.
 
-**Pricing**
+###  Pricing
 
 - **Regular Rate**
   - The regular rate will be applied if no seasonal rate matches.
@@ -15,7 +15,7 @@
   - Offer seasonal rate options for specific occasions, such as Christmas, summer, winter, etc.
   - Charge different rates during these periods as applicable.
 
-**Property Block Dates**
+### Property Block Dates**
 
 - Provide an option to specify a date range to block bookings for a property.
 
