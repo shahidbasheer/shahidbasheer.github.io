@@ -160,6 +160,8 @@ While not packages in the traditional sense, certain tools are integral to the f
 - **[`Express.js`](https://expressjs.com/)**
 - **[`NestJS`](https://nestjs.com/)**
 
+When building a full-stack Next.js application, efficiently developing and managing APIs is paramount. Below are some of the best libraries and frameworks that can be integrated with Next.js to enhance API development:
+
 
 ### ### 1. **tRPC**
 
